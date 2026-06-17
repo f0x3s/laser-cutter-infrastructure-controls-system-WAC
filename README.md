@@ -5,8 +5,11 @@ Relay-logic based controls system to manage water-cooling, fume ventilation, and
 <p align="center">
   <img src="media/controls-block-diagram.png" alt="block diagram" style="width:100%; height:automatic">
 </p>
-<br>
-<em>Additionally: Laser and Cooling module placed on same switched circuit, ensuring Cooling Module is always engaged during Laser operation. OPTIONAL: uptime counter placed parallel to this circuit to facilitate tracking machine hours & water replacement intervals.</em>
+
+### Overview:
+* The **Paint Booth Air Handling Unit (AHU)** and local **Blower Fan** ensured to be always on while **Laser** or **Fume Hood** in use.
+* During operation, the switch in the **Paint Booth** is interrupted so that it may not be used to turn off **Paint Booth AHU**.
+* Power to both a **Utility Outlet** at the fume hood workbench (to restrict access to fume-generating tools, like a soldering iron) and internal **Laser Tube** will be interrupted until correct orientation of **Blast Gates** is met, with **Indicator Lights** providing visual feedback.
 
 ## Fabrication Files
 > 📂 **[acrylic parts](acrylic%20parts)/**
