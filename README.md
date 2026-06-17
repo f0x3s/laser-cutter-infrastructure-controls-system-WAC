@@ -50,16 +50,35 @@ _Requires 1x [`relay-controller-main-enclosure-WAC.dxf`](acrylic%20parts/relay-c
 | 24 | M3 nuts | [McMaster](https://www.mcmaster.com/90710A030/) |
 | 20 | M3 x 16mm Button Head Machine Screw | [McMaster](https://www.mcmaster.com/92095A184/) |
 | 4 | Nylon Standoff | [McMaster](https://www.mcmaster.com/90176A166/) |
+| 4 |  3/16 x 1-3/4 concrete screw | [McMaster](https://www.mcmaster.com/90161A725/) |
 | 4 |  1/2NPT Cable Grip | [Mouser](https://mou.sr/3KeBc74) |
 | 4 |  1/2NPT Cable Grip Nut | [Mouser](https://mou.sr/3WWg4U7) |
-| 4 |  3/16 x 1-3/4 concrete screw | [McMaster](https://www.mcmaster.com/90161A725/) |
 | 2 | Murrelektronik interface relay | [Automation Direct](https://www.automationdirect.com/adc/shopping/catalog/relays_-z-_timers/electro-mechanical_relays/52102) |
 | 5 | 781-1C-24D Ice Cube Relay | [Automation Direct](https://www.automationdirect.com/adc/shopping/catalog/relays_-z-_timers/electro-mechanical_relays/781-1c-24d) |
 | 5 | 781 Series Mounting Socket | [Automation Direct](https://www.automationdirect.com/adc/shopping/catalog/relays_-z-_timers/relay_-a-_timer_sockets/781-1c-skt) |
 | 3 | 275mm DIN Rail | [Automation Direct](https://www.automationdirect.com/adc/shopping/catalog/wire_-a-_cable_management/din_rail/din_rail/dn-r35s-275-4) |
 | 2 |  Solid State Relay | [Amazon](https://a.co/d/05lO5lyu) |
 | 2 |  Aluminum SSR Heatsink | [Amazon](https://a.co/d/04LpVrm3) |
-| 2 |  24v PSU (120w) | [Amazon](https://a.co/d/0cFTalkx) |
+| 1 |  24v PSU (120w) | [Amazon](https://a.co/d/0cFTalkx) |
 | 2 |  RJ45 Socket Breakout | [Amazon](https://a.co/d/0dmWGGhN) |
-| As Needed | Misc Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
-| As Needed | Misc Fork Connectors | [Amazon](https://a.co/d/01KCsaIr) |
+| 2 |  Lighted Edison Plug Set | [Amazon](https://a.co/d/048plgdh) |
+| As Needed | Misc. Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
+| As Needed | Misc. Fork Connectors | [Amazon](https://a.co/d/01KCsaIr) |
+| As Needed | Misc. Wago Connectors | [Amazon](https://a.co/d/03hsfrAt) |
+
+### Water Cooler Control Module
+_Requires 1x [`relay-controller-water-cooler-enclosure-WAC.dxf`](acrylic%20parts/relay-controller-water-cooler-enclosure-WAC.dxf)_
+| qty | name | source |
+| ------------: | :-----------: | :-----------: |
+| 10 | M3 nuts | [McMaster](https://www.mcmaster.com/90710A030/) |
+| 10 | M3 x 16mm Button Head Machine Screw | [McMaster](https://www.mcmaster.com/92095A184/) |
+| 3 | Nylon Standoff | [McMaster](https://www.mcmaster.com/90176A166/) |
+| 3 |  3/16 x 1-3/4 concrete screw | [McMaster](https://www.mcmaster.com/90161A725/) |
+| 3 |  1/2NPT Cable Grip | [Mouser](https://mou.sr/3KeBc74) |
+| 3 |  1/2NPT Cable Grip Nut | [Mouser](https://mou.sr/3WWg4U7) |
+| 1 |  Solid State Relay | [Amazon](https://a.co/d/05lO5lyu) |
+| 1 |  Aluminum SSR Heatsink (Large) | [Amazon](https://a.co/d/043KxMh4) |
+| 2 |  Lighted Edison Plug Set | [Amazon](https://a.co/d/048plgdh) |
+| As Needed | Misc. Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
+| As Needed | Misc. Fork Connectors | [Amazon](https://a.co/d/01KCsaIr) |
+| As Needed | Misc. Wago Connectors | [Amazon](https://a.co/d/03hsfrAt) |
