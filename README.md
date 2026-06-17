@@ -19,7 +19,7 @@ Relay-logic-based controls system to manage water-cooling, fume ventilation, and
     <img src="media/air-handling-diagram.png" alt="control flow block diagram" style="width:100%; height:automatic">
 </p>
 
-### Specialty Parts
+#### Air Handling Specialty Parts
 | qty | name | source |
 | ------------: | :-----------: | :-----------: |
 | 2 | Long Ranger 4 in. Aluminum Blast Gate with Switch | [Penn State Industries](https://www.pennstateind.com/store/LRGATE.html?utm_source=google&utm_medium=cpc&utm_campaign=21194399893&utm_content=&utm_term=&gad_source=1&gad_campaignid=21194400664&gbraid=0AAAAAD_LBLIuMktPh1lfJFACbiyh2TnXP&gclid=EAIaIQobChMI3ufmtN_jkwMVvz0IBR3NKySaEAQYAiABEgKDNPD_BwE) |
@@ -35,8 +35,8 @@ Relay-logic-based controls system to manage water-cooling, fume ventilation, and
 > - 🗒️ [`relay-controller-main-enclosure-WAC.dxf`](acrylic%20parts/relay-controller-main-enclosure-WAC.dxf) — *Enclosure for primary relay logic module*
 > - 🗒️ [`relay-controller-water-cooler-enclosure-WAC.dxf`](acrylic%20parts/relay-controller-water-cooler-enclosure-WAC.dxf) — *Enclosure for water cooler activation relay*
 
-## Parts List
-### Indicator Light Module (per enclosure)
+## Control Modules Parts Lists
+#### Indicator Light Module (per enclosure)
 _Requires 1x [`indicator-light-enclosure-WAC.dxf`](acrylic%20parts/indicator-light-enclosure-WAC.dxf)_
 | qty | name | source |
 | ------------: | :-----------: | :-----------: |
@@ -49,7 +49,7 @@ _Requires 1x [`indicator-light-enclosure-WAC.dxf`](acrylic%20parts/indicator-lig
 | 1 |  Red & Green Indicator Light Pair | [Amazon](https://a.co/d/08HnO1Rn) |
 | As Needed | Misc Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
 
-### Main Control Module
+#### Main Control Module
 _Requires 1x [`relay-controller-main-enclosure-WAC.dxf`](acrylic%20parts/relay-controller-main-enclosure-WAC.dxf)_
 | qty | name | source |
 | ------------: | :-----------: | :-----------: |
@@ -72,7 +72,7 @@ _Requires 1x [`relay-controller-main-enclosure-WAC.dxf`](acrylic%20parts/relay-c
 | As Needed | Misc. Fork Connectors | [Amazon](https://a.co/d/01KCsaIr) |
 | As Needed | Misc. Wago Connectors | [Amazon](https://a.co/d/03hsfrAt) |
 
-### Water Cooler Control Module
+#### Water Cooler Control Module
 _Requires 1x [`relay-controller-water-cooler-enclosure-WAC.dxf`](acrylic%20parts/relay-controller-water-cooler-enclosure-WAC.dxf)_
 | qty | name | source |
 | ------------: | :-----------: | :-----------: |
