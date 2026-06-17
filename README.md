@@ -62,3 +62,4 @@ _Requires 1x [`relay-controller-main-enclosure-WAC.dxf`](acrylic%20parts/relay-c
 | 2 |  24v PSU (120w) | [Amazon](https://a.co/d/0cFTalkx) |
 | 2 |  RJ45 Socket Breakout | [Amazon](https://a.co/d/0dmWGGhN) |
 | As Needed | Misc Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
+| As Needed | Misc Fork Connectors | [Amazon](https://a.co/d/01KCsaIr) |
