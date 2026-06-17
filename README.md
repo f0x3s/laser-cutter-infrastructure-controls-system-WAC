@@ -36,7 +36,8 @@ Relay-logic-based controls system to manage water-cooling, fume ventilation, and
 > - 🗒️ [`relay-controller-water-cooler-enclosure-WAC.dxf`](acrylic%20parts/relay-controller-water-cooler-enclosure-WAC.dxf) — *Enclosure for water cooler activation relay*
 
 ## Control Modules Parts Lists
-#### Indicator Light Module (per enclosure)
+_note: qty given as needed for assembly, without respect to package quantity from sources_
+#### Indicator Light Module (per module)
 _Requires 1x [`indicator-light-enclosure-WAC.dxf`](acrylic%20parts/indicator-light-enclosure-WAC.dxf)_
 | qty | name | source |
 | ------------: | :-----------: | :-----------: |
