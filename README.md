@@ -76,6 +76,7 @@ _Requires 1x [`relay-controller-water-cooler-enclosure-WAC.dxf`](acrylic%20parts
 | 3 |  3/16 x 1-3/4 concrete screw | [McMaster](https://www.mcmaster.com/90161A725/) |
 | 3 |  1/2NPT Cable Grip | [Mouser](https://mou.sr/3KeBc74) |
 | 3 |  1/2NPT Cable Grip Nut | [Mouser](https://mou.sr/3WWg4U7) |
+| 1 |  12v PSU (60w) | [Amazon](https://a.co/d/06WrZoo5) |
 | 1 |  Solid State Relay | [Amazon](https://a.co/d/05lO5lyu) |
 | 1 |  Aluminum SSR Heatsink (Large) | [Amazon](https://a.co/d/043KxMh4) |
 | 2 |  Lighted Edison Plug Set | [Amazon](https://a.co/d/048plgdh) |
