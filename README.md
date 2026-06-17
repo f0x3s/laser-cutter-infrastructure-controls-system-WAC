@@ -33,7 +33,7 @@ Relay-logic-based controls system to manage water-cooling, fume ventilation, and
 ### Indicator Light Module (per enclosure)
 _Requires 1x [`indicator-light-enclosure-WAC.dxf`](acrylic%20parts/indicator-light-enclosure-WAC.dxf)_
 | qty | name | source |
-| :------------ | :-----------: | :-----------: |
+| ------------: | :-----------: | :-----------: |
 | 10 | M3 nuts | [McMaster](https://www.mcmaster.com/90710A030/) |
 | 8 | M3 x 16mm Button Head Machine Screw | [McMaster](https://www.mcmaster.com/92095A184/) |
 | 2 | M3 x 35mm Button Head Machine Screw | [McMaster](https://www.mcmaster.com/92095A201/) |
@@ -41,15 +41,17 @@ _Requires 1x [`indicator-light-enclosure-WAC.dxf`](acrylic%20parts/indicator-lig
 | 2 |  3/16 x 1-3/4 concrete screw | [McMaster](https://www.mcmaster.com/90161A725/) |
 | 1 |  RJ45 Socket Breakout | [Amazon](https://a.co/d/0dmWGGhN) |
 | 1 |  Red & Green Indicator Light Pair | [Amazon](https://a.co/d/08HnO1Rn) |
-| 1 | Misc Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
+| As Needed | Misc Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
 
 ### Main Control Module
 _Requires 1x [`relay-controller-main-enclosure-WAC.dxf`](acrylic%20parts/relay-controller-main-enclosure-WAC.dxf)_
 | qty | name | source |
-| :------------ | :-----------: | :-----------: |
+| ------------: | :-----------: | :-----------: |
 | 24 | M3 nuts | [McMaster](https://www.mcmaster.com/90710A030/) |
 | 20 | M3 x 16mm Button Head Machine Screw | [McMaster](https://www.mcmaster.com/92095A184/) |
 | 4 | Nylon Standoff | [McMaster](https://www.mcmaster.com/90176A166/) |
+| 4 |  1/2NPT Cable Grip | [Mouser](https://mou.sr/3KeBc74) |
+| 4 |  1/2NPT Cable Grip Nut | [Mouser](https://mou.sr/3WWg4U7) |
 | 4 |  3/16 x 1-3/4 concrete screw | [McMaster](https://www.mcmaster.com/90161A725/) |
 | 2 | Murrelektronik interface relay | [Automation Direct](https://www.automationdirect.com/adc/shopping/catalog/relays_-z-_timers/electro-mechanical_relays/52102) |
 | 5 | 781-1C-24D Ice Cube Relay | [Automation Direct](https://www.automationdirect.com/adc/shopping/catalog/relays_-z-_timers/electro-mechanical_relays/781-1c-24d) |
@@ -59,4 +61,4 @@ _Requires 1x [`relay-controller-main-enclosure-WAC.dxf`](acrylic%20parts/relay-c
 | 2 |  Aluminum SSR Heatsink | [Amazon](https://a.co/d/04LpVrm3) |
 | 2 |  24v PSU (120w) | [Amazon](https://a.co/d/0cFTalkx) |
 | 2 |  RJ45 Socket Breakout | [Amazon](https://a.co/d/0dmWGGhN) |
-| 1 | Misc Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
+| As Needed | Misc Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
