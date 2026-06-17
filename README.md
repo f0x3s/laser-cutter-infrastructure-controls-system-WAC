@@ -16,7 +16,7 @@ Relay-logic based controls system to manage water-cooling, fume ventilation, and
 
 ## Air Handling Diagram
 <p align="center">
-<img src="media/air-handling-diagram.png" alt="air handling diagram" style="width:100%; height:automatic">
+
 </p>
 
 ## Fabrication Files
