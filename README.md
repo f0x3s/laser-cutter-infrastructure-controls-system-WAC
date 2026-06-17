@@ -26,6 +26,7 @@ Relay-logic-based controls system to manage water-cooling, fume ventilation, and
 | 1 | 6" Backdraft Damper | [Amazon](https://a.co/d/00BVJb6u) |
 
 ## Fabrication Files
+Unless otherwise specified, all files to be cut from 0.25" acrylic.
 > 📂 **[acrylic parts](acrylic%20parts)/**
 > - 📁 [`source`](acrylic%20parts/source)/ — *Editable Corel Draw design files*
 >   - 🗒️ [`indicator-light-enclosure-WAC.cdr`](acrylic%20parts/source/indicator-light-enclosure-WAC.cdr)
