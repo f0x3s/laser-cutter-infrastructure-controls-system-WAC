@@ -19,6 +19,12 @@ Relay-logic-based controls system to manage water-cooling, fume ventilation, and
     <img src="media/air-handling-diagram.png" alt="control flow block diagram" style="width:100%; height:automatic">
 </p>
 
+### Specialty Parts
+| qty | name | source |
+| ------------: | :-----------: | :-----------: |
+| 2 | Long Ranger 4 in. Aluminum Blast Gate with Switch | [Penn State Industries](https://www.pennstateind.com/store/LRGATE.html?utm_source=google&utm_medium=cpc&utm_campaign=21194399893&utm_content=&utm_term=&gad_source=1&gad_campaignid=21194400664&gbraid=0AAAAAD_LBLIuMktPh1lfJFACbiyh2TnXP&gclid=EAIaIQobChMI3ufmtN_jkwMVvz0IBR3NKySaEAQYAiABEgKDNPD_BwE) |
+| 1 | 6" Backdraft Damper | [Amazon](https://a.co/d/00BVJb6u) |
+
 ## Fabrication Files
 > 📂 **[acrylic parts](acrylic%20parts)/**
 > - 📁 [`source`](acrylic%20parts/source)/ — *Editable Corel Draw design files*
