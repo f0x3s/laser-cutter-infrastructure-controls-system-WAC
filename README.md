@@ -5,7 +5,7 @@ Relay-logic based controls system to manage water-cooling, fume ventilation, and
 
 ## Control Flow
 <p align="center">
-
+    <img src="media/controls-block-diagram.png" alt="control flow block diagram" style="width:100%; height:automatic">
 </p>
 
 ### Overview:
