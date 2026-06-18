@@ -74,6 +74,8 @@ _Requires 1x [`relay-controller-main-enclosure-WAC.dxf`](acrylic%20parts/relay-c
 | As Needed | Misc. Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
 | As Needed | Misc. Fork Connectors | [Amazon](https://a.co/d/01KCsaIr) |
 | As Needed | Misc. Wago Connectors | [Amazon](https://a.co/d/03hsfrAt) |
+| As Needed | 25a Bulk Extension Cord Wire | in-house |
+| As Needed | 18ga 2-conductor speaker wire or equiv. | in-house |
 
 #### Water Cooler Control Module
 _Requires 1x [`relay-controller-water-cooler-enclosure-WAC.dxf`](acrylic%20parts/relay-controller-water-cooler-enclosure-WAC.dxf)_
@@ -92,3 +94,6 @@ _Requires 1x [`relay-controller-water-cooler-enclosure-WAC.dxf`](acrylic%20parts
 | As Needed | Misc. Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
 | As Needed | Misc. Fork Connectors | [Amazon](https://a.co/d/01KCsaIr) |
 | As Needed | Misc. Wago Connectors | [Amazon](https://a.co/d/03hsfrAt) |
+| As Needed | 25a Bulk Extension Cord Wire | in-house |
+| As Needed | 18ga 2-conductor speaker wire or equiv. | in-house |
+
