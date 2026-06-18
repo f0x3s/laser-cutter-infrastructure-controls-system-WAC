@@ -25,6 +25,7 @@ This is intended as a maintenance resource for the existing system. Instructions
 | 1 | 6" Backdraft Damper | [Amazon](https://a.co/d/00BVJb6u) |
 
 ## Circuit Diagrams
+#### Main Control Module
 <p align="center">
     <img src="circuit%20diagrams/main-controller-circuit-WAC.png" alt="control flow block diagram" style="width:100%; height:automatic">
 </p>
@@ -65,7 +66,7 @@ _Requires 1x [`relay-controller-main-enclosure-WAC.dxf`](acrylic%20parts/relay-c
 | 4 |  3/16 x 1-3/4 concrete screw | [McMaster](https://www.mcmaster.com/90161A725/) |
 | 4 |  1/2NPT Cable Grip | [Mouser](https://mou.sr/3KeBc74) |
 | 4 |  1/2NPT Cable Grip Nut | [Mouser](https://mou.sr/3WWg4U7) |
-| 2 | Murrelektronik interface relay | [Automation Direct](https://www.automationdirect.com/adc/shopping/catalog/relays_-z-_timers/electro-mechanical_relays/52102) |
+| 2 | Murrelektronik Interface relay | [Automation Direct](https://www.automationdirect.com/adc/shopping/catalog/relays_-z-_timers/electro-mechanical_relays/52102) |
 | 5 | 781-1C-24D Ice Cube Relay | [Automation Direct](https://www.automationdirect.com/adc/shopping/catalog/relays_-z-_timers/electro-mechanical_relays/781-1c-24d) |
 | 5 | 781 Series Mounting Socket | [Automation Direct](https://www.automationdirect.com/adc/shopping/catalog/relays_-z-_timers/relay_-a-_timer_sockets/781-1c-skt) |
 | 3 | 275mm DIN Rail | [Automation Direct](https://www.automationdirect.com/adc/shopping/catalog/wire_-a-_cable_management/din_rail/din_rail/dn-r35s-275-4) |
