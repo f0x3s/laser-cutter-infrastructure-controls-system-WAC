@@ -1,8 +1,7 @@
 # Laser Cutter Infrastructure Controls System
 Relay-logic-based controls system to manage water-cooling, fume ventilation, and other auxiliary functions for the laser cutter &amp; digital fabrication space at the Walker Art Center.
 
-
-
+This is a living document, intended as a maintenance guide for the existing system.
 ## Control Flow
 <p align="center">
     <img src="media/controls-block-diagram.png" alt="control flow block diagram" style="width:100%; height:automatic">
