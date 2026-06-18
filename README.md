@@ -24,6 +24,11 @@ This is intended as a maintenance resource for the existing system. Instructions
 | 2 | Long Ranger 4 in. Aluminum Blast Gate with Switch | [Penn State Industries](https://www.pennstateind.com/store/LRGATE.html?utm_source=google&utm_medium=cpc&utm_campaign=21194399893&utm_content=&utm_term=&gad_source=1&gad_campaignid=21194400664&gbraid=0AAAAAD_LBLIuMktPh1lfJFACbiyh2TnXP&gclid=EAIaIQobChMI3ufmtN_jkwMVvz0IBR3NKySaEAQYAiABEgKDNPD_BwE) |
 | 1 | 6" Backdraft Damper | [Amazon](https://a.co/d/00BVJb6u) |
 
+## Circuit Diagrams
+<p align="center">
+    <img src="circuit%20diagrams/main-controller-circuit-WAC.png" alt="control flow block diagram" style="width:100%; height:automatic">
+</p>
+
 ## Fabrication Files
 All files to be cut from 0.25" acrylic unless otherwise specified.
 > 📂 **[acrylic parts](acrylic%20parts)/**
