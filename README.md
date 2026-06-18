@@ -70,6 +70,7 @@ _Requires 1x [`relay-controller-main-enclosure-WAC.dxf`](acrylic%20parts/relay-c
 | 1 |  24v PSU (120w) | [Amazon](https://a.co/d/0cFTalkx) |
 | 2 |  RJ45 Socket Breakout | [Amazon](https://a.co/d/0dmWGGhN) |
 | 2 |  Lighted Edison Plug Set | [Amazon](https://a.co/d/048plgdh) |
+| 1 |  IEC panel-mount male bulkhead | [Amazon](https://a.co/d/0hY4DzyT) |
 | As Needed | Misc. Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
 | As Needed | Misc. Fork Connectors | [Amazon](https://a.co/d/01KCsaIr) |
 | As Needed | Misc. Wago Connectors | [Amazon](https://a.co/d/03hsfrAt) |
