@@ -35,6 +35,10 @@ This is intended as a maintenance resource for the existing system. Instructions
     <img src="circuit%20diagrams/indicator-light-circuit-WAC.png" alt="indicator modules electrical schematic" style="width:100%; height:automatic">
 </p>
 
+#### Water Cooler Control Module
+<p align="center">
+    <img src="circuit%20diagrams/water-cooler-control-circuit-WAC.png" alt="water cooler control module electrical schematic" style="width:(6/17)%; height:automatic">
+</p>
 
 ## Fabrication Files
 All files to be cut from 0.25" acrylic unless otherwise specified.
