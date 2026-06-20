@@ -16,7 +16,7 @@ This is intended as a maintenance resource for the existing system. Instructions
 * **Water Cooling Pump** controlled with **Laser Power Button**, ensuring **Water Cooling Pump** is always engaged during **Laser** operation. 
 * The **Paint Booth Air Handling Unit (AHU)** and local **Blower Fan** ensured to be always on while **Laser** or **Fume Hood** in use.
 * Power to both a **Utility Outlet** at the fume hood workbench (to restrict access to fume-generating tools, like a soldering iron) and internal **Laser Tube** will be interrupted until correct orientation of **Blast Gates** is met, with **Indicator Lights** providing visual feedback.
-* While not explicitly shown in this diagram, during operation of either the **Laser** or **Fume Hood** the switch in the **Paint Booth** is interrupted at the **Paint Booth AHU** motor controller in the **Fan Room** so that it may not be used to turn off **Paint Booth AHU**. See [_*Additional Resources*_](https://github.com/f0x3s/laser-cutter-infrastructure-controls-system-WAC/edit/main/README.md#additional-resource)
+* While not explicitly shown in this diagram, during operation of either the **Laser** or **Fume Hood** the switch in the **Paint Booth** is interrupted at the **Paint Booth AHU** motor controller in the **Fan Room** so that it may not be used to turn off **Paint Booth AHU**. See: ['arduino-industrial-AHU-controller-WAC'](https://github.com/f0x3s/arduino-industrial-AHU-status-indicator-WAC)
 
 ## Air Handling Diagram
 <p align="center">
