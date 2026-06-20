@@ -15,7 +15,7 @@ This is intended as a maintenance resource for the existing system. Instructions
 
 ## Air Handling Diagram
 <p align="center">
-    <img src="media/air-handling-diagram.png" alt="control flow block diagram" style="width:100%; height:automatic">
+    <img src="media/air-handling-diagram.png" alt="air handling diagram" style="width:100%; height:automatic">
 </p>
 
 #### Air Handling Specialty Parts
@@ -27,8 +27,14 @@ This is intended as a maintenance resource for the existing system. Instructions
 ## Circuit Diagrams
 #### Main Control Module
 <p align="center">
-    <img src="circuit%20diagrams/main-controller-circuit-WAC.png" alt="control flow block diagram" style="width:100%; height:automatic">
+    <img src="circuit%20diagrams/main-controller-circuit-WAC.png" alt="main control module electrical schematic" style="width:100%; height:automatic">
 </p>
+
+#### Indicator Light Modules
+<p align="center">
+    <img src="circuit%20diagrams/indicator-light-circuit-WAC.png" alt="indicator modules electrical schematic" style="width:100%; height:automatic">
+</p>
+
 
 ## Fabrication Files
 All files to be cut from 0.25" acrylic unless otherwise specified.
