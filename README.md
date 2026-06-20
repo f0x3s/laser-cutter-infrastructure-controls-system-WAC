@@ -36,8 +36,8 @@ This is intended as a maintenance resource for the existing system. Instructions
 </p>
 
 #### Water Cooler Control Module
-<p align="center">
-    <img src="circuit%20diagrams/water-cooler-control-circuit-WAC.png" alt="water cooler control module electrical schematic" style="width:(6/17)%; height:automatic">
+<p align="left">
+    <img src="circuit%20diagrams/water-cooler-control-circuit-WAC.png" alt="water cooler control module electrical schematic" style="width:36%; height:automatic">
 </p>
 
 ## Fabrication Files
@@ -106,6 +106,7 @@ _Requires 1x [`relay-controller-water-cooler-enclosure-WAC.dxf`](acrylic%20parts
 | 1 |  Solid State Relay | [Amazon](https://a.co/d/05lO5lyu) |
 | 1 |  Aluminum SSR Heatsink (Large) | [Amazon](https://a.co/d/043KxMh4) |
 | 2 |  Lighted Edison Plug Set | [Amazon](https://a.co/d/048plgdh) |
+| 1 | .25w 1k Resistor | in-house |
 | As Needed | Misc. Hookup Wire | [Amazon](https://a.co/d/0hACIMdw) |
 | As Needed | Misc. Fork Connectors | [Amazon](https://a.co/d/01KCsaIr) |
 | As Needed | Misc. Wago Connectors | [Amazon](https://a.co/d/03hsfrAt) |
