@@ -5,7 +5,7 @@ This is intended as a maintenance resource for the existing system. Instructions
 
 > ### Additional Resources:
 > * [arduino-industrial-AHU-status-indicator-WAC](https://github.com/f0x3s/arduino-industrial-AHU-status-indicator-WAC) — *Real-time feedback module for the __Paint Booth AHU__*
-> * [arduino-industrial-AHU-controller-WAC](https://github.com/f0x3s/arduino-industrial-AHU-status-indicator-WAC) — *Interface beween control module and __Paint Booth AHU__ 3-phase motor controller*
+> * [arduino-industrial-AHU-controller-WAC](https://github.com/f0x3s/arduino-industrial-AHU-controller-WAC) — *Interface beween control module and __Paint Booth AHU__ 3-phase motor controller*
 
 ## Control Flow
 <p align="center">
