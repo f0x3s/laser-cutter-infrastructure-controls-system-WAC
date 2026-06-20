@@ -4,8 +4,8 @@ Relay-logic-based controls system to manage water-cooling, fume ventilation, and
 This is intended as a maintenance resource for the existing system. Instructions for building a new system from scratch are currently outside of the scope of this repo.
 
 > ### Additional Resources:
-> * ['arduino-industrial-AHU-status-indicator-WAC'](https://github.com/f0x3s/arduino-industrial-AHU-status-indicator-WAC) — *Real-time feedback module for the Paint Booth AHU*
-> * ['arduino-industrial-AHU-controller-WAC'](https://github.com/f0x3s/arduino-industrial-AHU-status-indicator-WAC) — *Interface beween control module and Paint Booth AHU 3-phase motor controller*
+> * [arduino-industrial-AHU-status-indicator-WAC](https://github.com/f0x3s/arduino-industrial-AHU-status-indicator-WAC) — *Real-time feedback module for the __Paint Booth AHU__*
+> * [arduino-industrial-AHU-controller-WAC](https://github.com/f0x3s/arduino-industrial-AHU-status-indicator-WAC) — *Interface beween control module and __Paint Booth AHU__ 3-phase motor controller*
 
 ## Control Flow
 <p align="center">
